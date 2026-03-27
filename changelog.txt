@@ -1,0 +1,63 @@
+== Changelog ==
+
+= 2.0.6 - 2024-10-11
+
+* Updated bridge to 166 version
+* Added support for the "Discount Rules for WooCommerce" plugin
+* Allowed HTML tags in product description
+
+= 1.14.2.3 - 2024-07-29
+
+* Update plugin description
+
+= 1.14.2.2 - 2024-07-17 =
+
+* Improve referencing other other files to make it work with all setups of WordPress
+
+= 1.14.2.1 - 2024-07-03 =
+
+* Update missing text domains
+
+= 1.14.2 - 2024-07-01 =
+
+* Update text domain for all strings
+* Remove hardcoded paths to make the plugin work with all WordPress setups
+* Remove obsolete code to manage users
+
+= 1.14.1 - 2024-06-18 =
+
+* Refactoring to meet WordPress requirement
+
+= 1.14.0 - 2024-06-06 =
+
+* The code was refactored to meet WordPress requirement
+
+= 1.13.0 - 2024-05-08 =
+
+* The code was refactored to meet WordPress requirement
+* Updated bridge to 152 version. Added ImageAdd method
+* Updated bridge to 153 version. Added ProductAdd and ProductUpdate methods
+
+= 1.11.0 - 2024-02-23 =
+
+* Added a warning when self-testing of the plugin during installation failed.
+* Added support for new notifications: The plugin is disconnected, and store key is updated
+* The code was refactored to meet WordPress requirements. Removed default key from "bridge2cart/config.php"
+
+= 1.8.0.1 - 2024-02-01 =
+
+* Add readme.txt and screenshots
+
+= 1.8.0 - 2024-01-22 =
+
+* Add encryption support
+* Plugin refactoring
+* Fix compatibility with Aelia Currency Switcher plugin
+
+= 1.0.3 - 2023-09-20 =
+
+* Add support for WooCommerce 8.x
+
+= 1.0.2 - 2023-07-28 =
+
+* Initial release
