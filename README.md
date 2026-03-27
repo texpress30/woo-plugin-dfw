@@ -1,1 +1,1 @@
-# woo-plugin
+# woo-plugin-dwf
